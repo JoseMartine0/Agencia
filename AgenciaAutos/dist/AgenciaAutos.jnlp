@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="AgenciaAutos.jar" size="10252" download="eager" />
+    <jar href="AgenciaAutos.jar" size="12089" download="eager" />
     <jar href="lib\mysql-connector-java-8.0.21.jar" size="2397321" download="eager" />
   </resources>
   <jfx:javafx-desc  width="800" height="600" main-class="main.main"  name="AgenciaAutos" />
