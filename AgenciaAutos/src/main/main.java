@@ -13,7 +13,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author JET
+ * @author User 
  */
 public class main extends Application {
     

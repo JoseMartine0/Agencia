@@ -16,7 +16,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author JET
+ * @author User
  */
 public class AgenciaDAO implements IAgenciaDAO{
 

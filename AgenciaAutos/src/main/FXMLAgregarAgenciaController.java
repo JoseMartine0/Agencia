@@ -14,7 +14,7 @@ import javafx.scene.control.TextField;
 /**
  * FXML Controller class
  *
- * @author JET
+ * @author User
  */
 public class FXMLAgregarAgenciaController implements Initializable {
 

@@ -10,7 +10,7 @@ import model.Agencia;
 
 /**
  *
- * @author JET
+ * @author User
  */
 public interface IAgenciaDAO {
     List<Agencia> getAllAgencias();

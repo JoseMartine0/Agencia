@@ -17,7 +17,7 @@ import java.util.logging.Level;
 
 /**
  *
- * @author JET
+ * @author User
  */
 public class DB {
     

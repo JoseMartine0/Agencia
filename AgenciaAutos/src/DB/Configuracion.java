@@ -11,7 +11,7 @@ import java.util.Properties;
 
 /**
  *
- * @author JET
+ * @author User
  */
 public class Configuracion {
      public Properties loadConfiguration() throws FileNotFoundException, IOException{  
